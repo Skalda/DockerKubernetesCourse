@@ -1,0 +1,3 @@
+[submodule "DockerKubernetesCourse-multi-docker"]
+	path = DockerKubernetesCourse-multi-docker
+	url = git@github.com:Skalda/DockerKubernetesCourse-multi-docker.git
