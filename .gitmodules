@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:Skalda/DockerKubernetesCourseApp.git
+[submodule "complex-k8s"]
+	path = complex-k8s
+	url = git@github.com:Skalda/DockerKubernetesCourse-multi-k8s.git
